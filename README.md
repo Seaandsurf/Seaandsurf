@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Seaandsurf
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F72D&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Weclome+to++GitHub...+I'm+Mathias+;Junior+dev+%40BeCode.org)](https://git.io/typing-svg)
 - 👀 I’m interested in learnig code
-- 🌱 I’m currently learning Html and CSS
+- 🌱 I’m currently learning many languages
 - 💞️ I’m looking to collaborate on beginner projects to learn more and improve myself
 - 📫 How to reach me @mathias.hardat@gmail.com
 - ⚙️ My skills:
